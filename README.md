@@ -10,3 +10,12 @@ go to terminal and paste these commands:
 git clone https://github.com/TheTapo/linux-bash-scripts.git
 cd linux-bash-scripts
 ```
+###### usage
+```
+bash (name).sh
+```
+- replace (name).sh with these names below
+- brave-debian : installs brave browser only
+- essentials   : install some programs used by me on a daily basis
+
+
