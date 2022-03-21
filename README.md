@@ -10,7 +10,7 @@ go to terminal and paste these commands:
 git clone https://github.com/TheTapo/linux-bash-scripts.git
 cd linux-bash-scripts
 ```
-###### usage
+## Usage
 ```
 bash (name).sh
 ```
