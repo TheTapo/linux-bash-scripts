@@ -1,6 +1,6 @@
 # linux-bash-scripts
 - This is my first github project so be easy on me :grinning:
-- These bash sricpts are made for linux specifically Debian and derivatives
+- These bash sricpts are made for linux specifically Debian and its derivatives
 - These scripts automate various stuff like installing programs automaticaly 
 
 ## Installation 
