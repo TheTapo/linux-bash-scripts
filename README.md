@@ -3,6 +3,12 @@
 - These bash sricpts are made for linux specifically Debian and its derivatives
 - These scripts automate various stuff like installing programs automaticaly 
 
+## Requirements
+- Debian or its derivative linux distro
+- bash
+- sudo
+
+
 ## Installation 
 
 go to terminal and paste these commands:
