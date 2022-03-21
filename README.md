@@ -3,7 +3,10 @@
 - These bash sricpts are made for linux specifically Debian and derivatives
 - These scripts automate various stuff like installing programs automaticaly 
 
+## Installation 
 
-
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+go to terminal and paste these commands:
+```
+git clone https://github.com/TheTapo/linux-bash-scripts.git
+cd linux-bash-scripts
+```
