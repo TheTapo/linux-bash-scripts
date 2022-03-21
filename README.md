@@ -14,8 +14,8 @@ cd linux-bash-scripts
 ```
 bash (name).sh
 ```
-- replace (name).sh with these names below
-- brave-debian : installs brave browser only
-- essentials   : install some programs used by me on a daily basis
+- replace (name).sh with these names in bold below
+- **brave-debian** : installs brave browser only
+- **essentials**   : install some programs used by me on a daily basis
 
 
