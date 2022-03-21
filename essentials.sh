@@ -1,6 +1,6 @@
 echo shall i start?
-read name
 echo press y to continue or press enter to stop
+read name
 if [ $name ];
 then 
 sudo apt install wget
