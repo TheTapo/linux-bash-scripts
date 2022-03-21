@@ -3,9 +3,16 @@ echo press y to continue or press enter to stop
 read name
 if [ $name ];
 then 
-sudo apt install wget
 cd ~
 cd Downloads
+sudo apt install git 
+git clone https://github.com/dylanaraps/pfetch.git
+cd pfetch 
+sudo mv pfetch /usr/bin/
+cd ..
+
+sudo apt install wget
+
 wget https://github.com/josh-richardson/cadmus/releases/download/0.0.3/cadmus.deb
 sudo dpkg --install cadmus.deb
 echo installed cadmus
